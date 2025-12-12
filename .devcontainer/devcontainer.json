@@ -9,8 +9,9 @@
 			"installBicep": true,
 			"version": "latest"
 		},
+		"ghcr.io/devcontainers/features/common-utils:2": {},
 		"ghcr.io/devcontainers/features/dotnet:2": {
-			"version": "8.0"
+			"version": "9.0"
 		}
 	},
 
